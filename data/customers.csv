@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore
+1,25,Male,50000,60
+2,30,Female,60000,65
+3,22,Female,30000,40
+4,40,Male,80000,80
+5,35,Female,75000,75
+6,28,Male,52000,55
+7,45,Female,90000,85
+8,23,Male,40000,50
+9,31,Female,68000,70
+10,38,Male,72000,68
